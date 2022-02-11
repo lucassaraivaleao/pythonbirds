@@ -42,6 +42,7 @@ if __name__ == '__main__':
     print(Pessoa.metodo_estatico(), luciano.metodo_estatico())
     print(Pessoa.nome_e_atributos_de_classe(), luciano.nome_e_atributos_de_classe())
     pessoa = Pessoa('Anonimo')
+    #implementado conceitos de herança
     print(isinstance(pessoa, Pessoa))
     print(isinstance(pessoa, Homem))
     print(isinstance(renzo, Pessoa))
