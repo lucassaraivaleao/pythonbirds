@@ -55,6 +55,7 @@ Exemplo:
     >>> carro.calcular_velocidade()
     1
     >>> carro.acelerar()
+
     >>> carro.calcular_velocidade()
     2
     >>> carro.frear()
